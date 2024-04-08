@@ -15,7 +15,7 @@ def main():
     J.team_leader = 1
     J.job = "deployment of residential modules 1 and 2"
     J.work_size = 15
-    J.collaborators = "2 3"
+    J.collaborators = "2, 3"
     J.start_date = datetime.datetime.now()
     J.is_finished = False
 
